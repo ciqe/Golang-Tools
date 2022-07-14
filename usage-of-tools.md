@@ -1,6 +1,6 @@
 # Usage of Tools
 
-1. Subfinder + httpx + fzf
+1. subfinder + httpx + fzf
 
 ```bash
 subfinder -d twitter.com | httpx --status-code --title | fzf
