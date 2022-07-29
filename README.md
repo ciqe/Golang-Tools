@@ -1,25 +1,63 @@
-# Kali-Linux-Fonts
+# Infosec Tools in golang
 
-### Step 1:
+```bash
+go install github.com/projectdiscovery/dnsprobe@latest
+```
 
-Download the zip file
 
-### Step 2:
+```bash
+go install github.com/projectdiscovery/subfinder@latest
+```
 
-unzip the zip file
 
-### Step 3:
+```bash
+go install github.com/projectdiscovery/httpx@latest
+```
 
-copy all the files from fonts dir to `/usr/share/fonts` .
 
-### Step 4:
+```bash
+go install github.com/projectdiscovery/nuclei@latest
+```
 
-open thunar (Default File Manager in Kali XFCE)
 
-### Step 5:
+```bash
+go install github.com/OWASP/Amass@latest
+```
 
-paste all the copied fonts file in this
 
-### Step 6:
+```bash
+go install github.com/Josue87/gotator@latest
+```
 
-Ready to go
+
+```bash
+go install github.com/d3mondev/puredns@latest
+```
+
+
+```bash
+go install github.com/haccer/subjack@latest
+```
+
+
+```bash
+go install github.com/tomnomnom/gf@latest
+```
+
+
+```bash
+go install github.com/tomnomnom/qsreplace@latest
+```
+
+
+```bash
+go install github.com/tomnomnom/httprobe@latest
+```
+
+
+```bash
+go install github.com/tomnomnom/waybackurls@latest
+```
+
+
+
