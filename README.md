@@ -2,7 +2,7 @@
 
 Tools:
 
-* [dnsprobe](https://github.com/projectdiscovery/dnsprobe)
+* [dnsx](https://github.com/projectdiscovery/dnsx)
 
 * [subfinder](https://github.com/projectdiscovery/subfinder)
 
