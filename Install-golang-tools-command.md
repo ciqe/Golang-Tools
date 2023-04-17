@@ -1,7 +1,7 @@
 # Infosec Tools in golang
 
 ```bash
-go install github.com/projectdiscovery/dnsprobe@latest
+go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 ```
 
 
